@@ -1,6 +1,6 @@
 {
   "name": "browserify-cmd",
-  "author": "drqzju@gmail.com",
+  "author": "luckydrq<drqzju@gmail.com>",
   "description": "Convert COMMONJS module to CMD module for browser usage",
   "version": "0.1.0",
   "main": "index.js",
@@ -10,6 +10,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.alibaba-inc.com:ruoqi.drq/paddle.git"
+    "url": "git@github.com:luckydrq/browserify-cmd.git"
   }
 }
